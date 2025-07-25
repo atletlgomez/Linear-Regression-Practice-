@@ -1,0 +1,16 @@
+MLM: Using Machine Learning to Handle Missing Values in Residential Segregation and Mortality Rates for Association Analysis
+ 
+https://www.computer.org/csdl/proceedings-article/bdcat/2024/673000a036/25KnT9Cxai4
+ 
+In this article, the dataset represents residential segregation, highlighting the importance of having complete data to accurately represent the mortality rate. Results begin to skew significantly if missing data exceeds 50%. Many articles I've encountered mention how machine learning has improved the healthcare field. In the second dataset used, they employed an MLM twice to fill in the missing values, resulting in a doubling of their success by the end of the second run. If the number of runs is unknown, it is advised to closely monitor the results. Each time they ran the MLM, it trained, and the output improved greatly. The model with additional information performed better than the model without it.
+ 
+YouTube Data Analysis Using Linear Regression and Neural Networks
+ 
+https://www.computer.org/csdl/proceedings-article/bdicn/2022/847600a248/1CJgrn4xUxa
+ 
+This study investigates user video preferences during COVID. They obtained data and used video views as the dependent variable and the number of subscribers as the independent variable. They determined the audience size and the ability to attract new viewers. With the best fit lines from linear regression, they identified a pattern where subscribers and views are positively correlated. In their model, they observed increased views in certain countries, potentially using this trend by inserting COVID-19 prevention ads. 
+
+An Learning Situation Early Warning Method Based on Linear Regression
+https://www.computer.org/csdl/proceedings-article/icbdie/2020/09150254/1lPGSh35w4w
+
+In this article, linear regression is applied to see how the students performed in an online, hybrid setting. They used this data to create an early warning system to warn if a student is falling behind in their materials. As the scores start to drop, the warning number increases, alerting about the student's potential failure. 
